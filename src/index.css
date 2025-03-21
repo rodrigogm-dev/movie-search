@@ -20,13 +20,9 @@ body {
   min-height: 100vh;
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-}
-
 button {
   border-radius: 8px;
+  color: lightgray;
   border: 1px solid gray;
   padding: 0.6em 1.2em;
   margin-left: 15px;
